@@ -1,6 +1,7 @@
 # yourdeviceinfo
 
-A new Flutter project.
+It is a simple and useful flutter project.
+Android mobile user can see their android mobile specification using this application.
 
 ## Getting Started
 
