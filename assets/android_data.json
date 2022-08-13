@@ -1,0 +1,34 @@
+{
+   "data":[
+    {
+        "id":1,
+        "title":"Version Security Patch",
+        "image":"https://joyofandroid.com/wp-content/uploads/2019/04/Featured-Image.jpeg",
+        "description":"Security issues are usually kept a secret from the general public - unless an attack happens. Generally, only the developers are informed about it. Most of the times, the patch will be added to the already scheduled update - so you might not even know there was a problem. This is why it is of utmost importance to keep your software up-to-date."
+    },
+    {
+        "id":2,
+        "title":"Version sdkInt",
+        "image":"https://i.stack.imgur.com/RCFFx.png",
+        "description":"SDK_INT. The SDK version of the software currently running on this hardware device. This value never changes while a device is booted, but it may increase when the hardware manufacturer provides an OTA update. Possible values are defined in Build."
+    },
+    {
+        "id":3,
+        "title":"Version release",
+        "image":"https://jayamwebsolutions.com/blogs/blog-manage-admin/uploads/images/26102018083311A-History-of-Android-Versions-Since-Initial-Release-to-Till-Date.jpg",
+        "description":"The development of the Android operating system was started in 2003 by Android, Inc. Later on, it was purchased by Google in 2005. The beta version of Android OS was released on November 5, 2007, while the software development kit (SDK) was released on November 12, 2007. The first Android mobile was publicly released with Android 1.0 of the T-Mobile G1 (aka HTC Dream) in October 2008. Google announced in August 2019 that they were ending the confectionery scheme, and they use numerical ordering for future Android versions. The first Android version which was released under the numerical order format was Android 10."
+    },
+    {
+        "id":4,
+        "title":"Version incremental",
+        "image":"https://www.xda-developers.com/files/2020/02/android-12-incremental-file-system-1900x700_c.jpg",
+        "description":"Every Android project needs a Gradle for generating an apk from the .java and .xml files in the project. Simply put, a gradle takes all the source files (java and XML) and applies appropriate tools, e.g., converts the java files into dex files and compresses all of them into a single file known as apk that is actually used. There are two types of build.gradle scripts."
+    },
+    {
+        "id":5,
+        "title":"Version codename",
+        "image":"https://pbs.twimg.com/media/FA_gqpVUUAU_Q48.jpg",
+        "description":"Android development releases are organized into families, with alphabetical codenames that are inspired by tasty treats. This page provides information about Platform codenames, versions, API levels, and NDK releases, with an explanation of the build ID definitions associated with them. Note that you might require additional codename-version details, depending on your use case. For example, you might need Android device codename and key combinations for booting into flashboot mode, or kernel sources and binaries to build a kernel manually."
+    }
+   ]
+}
